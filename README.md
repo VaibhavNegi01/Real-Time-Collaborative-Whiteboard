@@ -24,7 +24,7 @@ The Whiteboard Project aims to create a digital whiteboard application that allo
 
 1. **Clone the repository:**
     ```bash
-    https://github.com/kashish281/Whiteboard.git
+    https://github.com/VaibhavNegi01/Real-Time-Collaborative-Whiteboard.git
     cd whiteboard
     ```
 
@@ -75,5 +75,6 @@ The Whiteboard Project aims to create a digital whiteboard application that allo
 
 
 ---
+
 
 
